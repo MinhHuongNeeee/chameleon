@@ -241,97 +241,97 @@ public func FlatYellow() -> UIColor {
 // MARK: - Chameleon - Dark Shades Shorthand
 
 public func FlatBlackDark() -> UIColor {
-    return UIColor.flatBlackDarkColor()
+    return UIColor.flatBlackDark()
 }
 
 public func FlatBlueDark() -> UIColor {
-    return UIColor.flatBlueDarkColor()
+    return UIColor.flatBlueDark()
 }
 
 public func FlatBrownDark() -> UIColor {
-    return UIColor.flatBrownDarkColor()
+    return UIColor.flatBrownDark()
 }
 
 public func FlatCoffeeDark() -> UIColor {
-    return UIColor.flatCoffeeDarkColor()
+    return UIColor.flatCoffeeDark()
 }
 
 public func FlatForestGreenDark() -> UIColor {
-    return UIColor.flatForestGreenDarkColor()
+    return UIColor.flatForestGreenDark()
 }
 
 public func FlatGrayDark() -> UIColor {
-    return UIColor.flatGrayDarkColor()
+    return UIColor.flatGrayDark()
 }
 
 public func FlatGreenDark() -> UIColor {
-    return UIColor.flatGreenDarkColor()
+    return UIColor.flatGreenDark()
 }
 
 public func FlatLimeDark() -> UIColor {
-    return UIColor.flatLimeDarkColor()
+    return UIColor.flatLimeDark()
 }
 
 public func FlatMagentaDark() -> UIColor {
-    return UIColor.flatMagentaDarkColor()
+    return UIColor.flatMagentaDark()
 }
 
 public func FlatMaroonDark() -> UIColor {
-    return UIColor.flatMaroonDarkColor()
+    return UIColor.flatMaroonDark()
 }
 
 public func FlatMintDark() -> UIColor {
-    return UIColor.flatMintDarkColor()
+    return UIColor.flatMintDark()
 }
 
 public func FlatNavyBlueDark() -> UIColor {
-    return UIColor.flatNavyBlueDarkColor()
+    return UIColor.flatNavyBlueDark()
 }
 
 public func FlatOrangeDark() -> UIColor {
-    return UIColor.flatOrangeDarkColor()
+    return UIColor.flatOrangeDark()
 }
 
 public func FlatPinkDark() -> UIColor {
-    return UIColor.flatPinkDarkColor()
+    return UIColor.flatPinkDark()
 }
 
 public func FlatPlumDark() -> UIColor {
-    return UIColor.flatPlumDarkColor()
+    return UIColor.flatPlumDark()
 }
 
 public func FlatPowderBlueDark() -> UIColor {
-    return UIColor.flatPowderBlueDarkColor()
+    return UIColor.flatPowderBlueDark()
 }
 
 public func FlatPurpleDark() -> UIColor {
-    return UIColor.flatPurpleDarkColor()
+    return UIColor.flatPurpleDark()
 }
 
 public func FlatRedDark() -> UIColor {
-    return UIColor.flatRedDarkColor()
+    return UIColor.flatRedDark()
 }
 
 public func FlatSandDark() -> UIColor {
-    return UIColor.flatSandDarkColor()
+    return UIColor.flatSandDark()
 }
 
 public func FlatSkyBlueDark() -> UIColor {
-    return UIColor.flatSkyBlueDarkColor()
+    return UIColor.flatSkyBlueDark()
 }
 
 public func FlatTealDark() -> UIColor {
-    return UIColor.flatTealDarkColor()
+    return UIColor.flatTealDark()
 }
 
 public func FlatWatermelonDark() -> UIColor {
-    return UIColor.flatWatermelonDarkColor()
+    return UIColor.flatWatermelonDark()
 }
 
 public func FlatWhiteDark() -> UIColor {
-    return UIColor.flatWhiteDarkColor()
+    return UIColor.flatWhiteDark()
 }
 
 public func FlatYellowDark() -> UIColor {
-    return UIColor.flatYellowDarkColor()
+    return UIColor.flatYellowDark()
 }

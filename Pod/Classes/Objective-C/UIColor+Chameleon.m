@@ -148,99 +148,99 @@
 
 #pragma mark - Chameleon - Dark Shades
 
-+ (UIColor *)flatBlackDarkColor {
++ (UIColor *)flatBlackColorDark {
     return hsb(0, 0, 15);
 }
 
-+ (UIColor *)flatBlueDarkColor {
++ (UIColor *)flatBlueColorDark {
     return hsb(224, 56, 51);
 }
 
-+ (UIColor *)flatBrownDarkColor {
++ (UIColor *)flatBrownColorDark {
     return hsb(25, 45, 31);
 }
 
-+ (UIColor *)flatCoffeeDarkColor {
++ (UIColor *)flatCoffeeColorDark {
     return hsb(25, 34, 56);
 }
 
-+ (UIColor *)flatForestGreenDarkColor {
++ (UIColor *)flatForestGreenColorDark {
     return hsb(135, 44, 31);
 }
 
-+ (UIColor *)flatGrayDarkColor {
++ (UIColor *)flatGrayColorDark {
     return hsb(184, 10, 55);
 }
 
-+ (UIColor *)flatGreenDarkColor {
++ (UIColor *)flatGreenColorDark {
     return hsb(145, 78, 68);
 }
 
-+ (UIColor *)flatLimeDarkColor {
++ (UIColor *)flatLimeColorDark {
     return hsb(74, 81, 69);
 }
 
-+ (UIColor *)flatMagentaDarkColor {
++ (UIColor *)flatMagentaColorDark {
     return hsb(282, 61, 68);
 }
 
-+ (UIColor *)flatMaroonDarkColor {
++ (UIColor *)flatMaroonColorDark {
     return hsb(4, 68, 40);
 }
 
-+ (UIColor *)flatMintDarkColor {
++ (UIColor *)flatMintColorDark {
     return hsb(168, 86, 63);
 }
 
-+ (UIColor *)flatNavyBlueDarkColor {
++ (UIColor *)flatNavyBlueColorDark {
     return hsb(210, 45, 31);
 }
 
-+ (UIColor *)flatOrangeDarkColor {
++ (UIColor *)flatOrangeColorDark {
     return hsb(24, 100, 83);
 }
 
-+ (UIColor *)flatPinkDarkColor {
++ (UIColor *)flatPinkColorDark {
     return hsb(327, 57, 83);
 }
 
-+ (UIColor *)flatPlumDarkColor {
++ (UIColor *)flatPlumColorDark {
     return hsb(300, 46, 31);
 }
 
-+ (UIColor *)flatPowderBlueDarkColor {
++ (UIColor *)flatPowderBlueColorDark {
     return hsb(222, 28, 84);
 }
 
-+ (UIColor *)flatPurpleDarkColor {
++ (UIColor *)flatPurpleColorDark {
     return hsb(253, 56, 64);
 }
 
-+ (UIColor *)flatRedDarkColor {
++ (UIColor *)flatRedColorDark {
     return hsb(6, 78, 75);
 }
 
-+ (UIColor *)flatSandDarkColor {
++ (UIColor *)flatSandColorDark {
     return hsb(42, 30, 84);
 }
 
-+ (UIColor *)flatSkyBlueDarkColor {
++ (UIColor *)flatSkyBlueColorDark {
     return hsb(204, 78, 73);
 }
 
-+ (UIColor *)flatTealDarkColor {
++ (UIColor *)flatTealColorDark {
     return hsb(196, 54, 45);
 }
 
-+ (UIColor *)flatWatermelonDarkColor {
++ (UIColor *)flatWatermelonColorDark {
     return hsb(358, 61, 85);
 }
 
-+ (UIColor *)flatWhiteDarkColor {
++ (UIColor *)flatWhiteColorDark {
     return hsb(204, 5, 78);
 }
 
-+ (UIColor *)flatYellowDarkColor {
++ (UIColor *)flatYellowColorDark {
     return hsb(40, 100, 100);
 }
 
